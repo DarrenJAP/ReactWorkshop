@@ -1,0 +1,39 @@
+
+.commentDiv {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    height: 200px;
+}
+
+.replySection {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.commentImage {
+    float: left;
+    max-height: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.commentName {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.commentTime {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.commentText {
+    text-align: left;
+    margin-right: 10px;
+}
